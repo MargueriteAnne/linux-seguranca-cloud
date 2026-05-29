@@ -1,0 +1,6 @@
+ls - Lista os ficheiros e diretórios existentes na pasta atual.
+cd - Permite navegar entre diretórios (mudar de pasta).
+pwd - Mostra o caminho completo do diretório atual.
+mkdir - Cria uma nova pasta/diretório
+git init - Inicializa um repositório Git local na pasta atual.
+git status - serve para mostrar o estado atual do repositório Git
