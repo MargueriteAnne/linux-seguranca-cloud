@@ -1,0 +1,8 @@
+mkdir para criar pastas;
+touch para criar ficheiros;
+cd para mudar de diretório;
+ls -l para verificar a estrutura criada;
+git status para verificar alterações;
+git add . para preparar os ficheiros;
+git commit -m "atividade topico 03" para registar a versão;
+git push para enviar para o GitHub.
