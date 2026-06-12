@@ -1,0 +1,26 @@
+Comandos utilizados:
+
+mkdir -p topico-02-individual/evidencias para criar pastas da atividade;
+
+touch comandos-utilizados.txt permissoes.md acesso-remoto.md para criar ficheiros;
+
+whoami para mostrar o utilizador atual no sistema;
+
+id para mostrar o UID, GID e grupos do utilizador;
+
+groups para mostrar os grupos do utilizador;
+
+mkdir teste-permissoes para criar uma pasta de testes;
+
+touch publico.txt restrito.txt script.sh para criar ficheiros de teste;
+
+ls -l para verificar a estrutura e permissões dos ficheiros;
+
+chmod 644 publico.txt para dar permissões de leitura/escrita ao dono 
+e leitura aos outros;
+
+chmod 640 restrito.txt para restringir acesso a utilizador e grupo;
+
+chmod u+x script.sh para permitir execução do script pelo utilizador;
+
+./script.sh para executar o script de teste;
