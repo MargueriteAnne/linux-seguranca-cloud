@@ -15,11 +15,9 @@ netdev
 ## Permissões aplicadas
 | Ficheiro | Permissão | Justificação |
 |---|---:|---|
-| publico.txt | 644 |Permite leitura para todos, escrita apenas pelo 
-proprietário|
+| publico.txt | 644 |Permite leitura para todos, escrita apenas pelo proprietário|
 | restrito.txt | 640 | Permite acesso apenas ao proprietário e grupo |
-| script.sh | u+x |Permite execução apenas pelo utilizador, seguindo o 
-princípio do menor privilégio |
+| script.sh | u+x |Permite execução apenas pelo utilizador, seguindo o princípio do menor privilégio |
 ## Relação com o princípio do menor privilégio
 As permissões foram definidas para garantir que cada ficheiro tenha apenas
  o nível de acesso necessário. Isso reduz riscos de alteração ou acesso não
